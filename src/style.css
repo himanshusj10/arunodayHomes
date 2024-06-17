@@ -1,0 +1,121 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #35424a;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
+  header nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  /* Property List styles */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  li img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  li h2 {
+    margin: 0.5rem 0;
+    color: #35424a;
+  }
+  
+  li p {
+    margin: 0.5rem 0;
+    color: #666;
+  }
+  
+  /* Property Details styles */
+  .property-details {
+    background: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .property-details img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .property-details h1 {
+    margin: 1rem 0;
+  }
+  
+  .property-details p {
+    color: #666;
+  }
+  
+  /* Contact Form styles */
+  form {
+    background: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form div {
+    margin-bottom: 1rem;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #333;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form button {
+    background-color: #35424a;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #455a64;
+  }
+  
