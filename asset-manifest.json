@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/arunodayHomes/static/css/main.0361a7fe.css",
-    "main.js": "/arunodayHomes/static/js/main.ab81f981.js",
+    "main.js": "/arunodayHomes/static/js/main.a68335e4.js",
     "index.html": "/arunodayHomes/index.html",
     "main.0361a7fe.css.map": "/arunodayHomes/static/css/main.0361a7fe.css.map",
-    "main.ab81f981.js.map": "/arunodayHomes/static/js/main.ab81f981.js.map"
+    "main.a68335e4.js.map": "/arunodayHomes/static/js/main.a68335e4.js.map"
   },
   "entrypoints": [
     "static/css/main.0361a7fe.css",
-    "static/js/main.ab81f981.js"
+    "static/js/main.a68335e4.js"
   ]
 }
